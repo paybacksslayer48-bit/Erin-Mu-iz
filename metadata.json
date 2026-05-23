@@ -1,0 +1,6 @@
+{
+  "name": "Erin Muñiz - Ментор",
+  "description": "Светло-темный терапевтический портал для ментора по эмоциональному освобождению и энергопрактикам Эрин Муньис.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
